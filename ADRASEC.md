@@ -9,7 +9,7 @@ Liste personnelle de matériels dédiés aux missions ADRASEC
 | Transmissions | Portatif VHF/UHF | Anytone AT-878UV  | |
 | Transmissions | Mobile VHF/UHF | TYT MD-9600  | |
 | Transmissions  | Antenne VHF/UHF  | Nagoya BA 6150 | Si installation possible (PC ou PCA) |
-| Accessoires  | Mât/trépied  |   |  |
+| Accessoires  | Mât/trépied  |   | Si installation possible (PC ou PCA) |
 
 ## SATER
 
@@ -17,5 +17,5 @@ Liste personnelle de matériels dédiés aux missions ADRASEC
 |---|---|---|---|
 | Transmissions | Portatif VHF/UHF | Anytone AT-878UV  | |
 | Transmissions | Mobile VHF/UHF | TYT MD-9600  | |
-| Transmissions  | Antenne VHF/UHF  | Nagoya BA 6150 |  |
-| Accessoires  |   |   |  |
+| Transmissions  | Antenne VHF/UHF  | Nagoya BA 6150 | Si installation possible (PC ou PCA) |
+| Accessoires  |   |   | Si installation possible (PC ou PCA) |
